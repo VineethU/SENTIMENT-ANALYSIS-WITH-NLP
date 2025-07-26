@@ -45,19 +45,19 @@ I used accuracy, precision, recall, and F1-score for evaluation.
 Tools I used:
 
 
-1.Python
+1.  Python
 
 
-2.Pandas
+2.  Pandas
 
 
-3.Scikit-learn
+3.  Scikit-learn
 
 
-4.TF-IDF Vectorizer
+4.  TF-IDF Vectorizer
 
 
-5.Logistic Regression
+5.  Logistic Regression
 
 
 What I learned
