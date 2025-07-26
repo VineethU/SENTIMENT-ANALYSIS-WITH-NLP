@@ -43,15 +43,22 @@ I tested the model on the test set and checked how well it did.
 I used accuracy, precision, recall, and F1-score for evaluation.
 
 Tools I used
+
+
 Python
+
 
 Pandas
 
+
 Scikit-learn
+
 
 TF-IDF Vectorizer
 
+
 Logistic Regression
+
 
 What I learned
 Even a small and simple dataset can give good results.
