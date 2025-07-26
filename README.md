@@ -71,3 +71,10 @@ Future Ideas
 Use a bigger dataset like IMDb or Amazon reviews.
 
 Try other models like SVM or even deep learning (like BERT).
+
+
+
+OUTPUT:
+
+
+![Image](https://github.com/user-attachments/assets/55d7a041-f309-47c4-b5ba-ed66d3cd622f)
