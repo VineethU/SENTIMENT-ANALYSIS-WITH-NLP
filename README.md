@@ -42,10 +42,10 @@ I tested the model on the test set and checked how well it did.
 
 I used accuracy, precision, recall, and F1-score for evaluation.
 
-Tools I used
+Tools I used:
 
 
-Python
+#.Python
 
 
 Pandas
